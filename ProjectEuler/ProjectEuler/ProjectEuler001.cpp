@@ -11,11 +11,11 @@ int main()
         if (i % 3 == 0 || i % 5 == 0)
         {
             result += i;
-            // cout << i << " " << result << endl;
+            cout << i << " " << result << endl;
         }
     }
 
-    cout << result << endl;
+    cout << "Answer : " << result << endl;
 
     return 0;
 }
