@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\ProjectEuler\ProjectEuler002.cpp">
+    <ClCompile Include="ProjectEuler002.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
