@@ -1,0 +1,3 @@
+﻿  ProjectEuler004.cpp
+C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\ProjectEuler004\ProjectEuler004.cpp(18,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ProjectEuler004.vcxproj -> C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\Debug\ProjectEuler004.exe
