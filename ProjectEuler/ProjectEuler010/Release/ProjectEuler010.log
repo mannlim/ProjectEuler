@@ -1,0 +1,10 @@
+﻿  ProjectEuler010.cpp
+C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\ProjectEuler010\ProjectEuler010.cpp(58,17): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\ProjectEuler010\ProjectEuler010.cpp(62,23): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\ProjectEuler010\ProjectEuler010.cpp(64,24): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Generating code
+  1 of 72 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjectEuler010.vcxproj -> C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\Release\ProjectEuler010.exe
