@@ -1,0 +1,4 @@
+﻿  ProjectEuler006.cpp
+C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\ProjectEuler006\ProjectEuler006.cpp(16,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\ProjectEuler006\ProjectEuler006.cpp(20,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ProjectEuler006.vcxproj -> C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\Debug\ProjectEuler006.exe
