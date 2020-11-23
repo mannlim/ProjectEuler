@@ -1,0 +1,8 @@
+﻿  ProjectEuler013.cpp
+C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\ProjectEuler013\ProjectEuler013.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  14 of 205 functions ( 6.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjectEuler013.vcxproj -> C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\Release\ProjectEuler013.exe
