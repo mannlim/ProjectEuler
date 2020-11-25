@@ -11,24 +11,24 @@ long long comb(const int n, const int r)
         comb_array[i] = new long long[r + 1] ;
     }
 
-    for (int m = 0; m < n+1; m++)
+    for (int _n = 0; _n < n+1; _n++)
     {
-        for (int q = 0; q < r+1; q++)
+        for (int _r = 0; _r < r+1; _r++)
         {
-            if (q > m)
+            if (_r > _n)
             {
-                comb_array[m][q] = 0;
+                comb_array[_n][_r] = 0;
             }
-            else if (m == q || q == 0)
+            else if (_n == _r || _r == 0)
             {
-                comb_array[m][q] = 1;
+                comb_array[_n][_r] = 1;
             }
             else
             {
-                comb_array[m][q] = comb_array[m - 1][q - 1] + comb_array[m - 1][q];
+                comb_array[_n][_r] = comb_array[_n - 1][_r - 1] + comb_array[_n - 1][_r];
             }
 
-            //cout << comb_array[m][q] << " ";
+            //cout << comb_array[_n][_r] << " ";
         }
         //cout << endl;
     }
