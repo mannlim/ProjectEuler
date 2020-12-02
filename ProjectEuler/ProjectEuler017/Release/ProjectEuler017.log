@@ -1,8 +1,8 @@
 ﻿  ProjectEuler017.cpp
 C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\ProjectEuler017\ProjectEuler017.cpp(44,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   Generating code
-  9 of 76 functions (11.8%) were compiled, the rest were copied from previous compilation.
+  0 of 76 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   ProjectEuler017.vcxproj -> C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\Release\ProjectEuler017.exe

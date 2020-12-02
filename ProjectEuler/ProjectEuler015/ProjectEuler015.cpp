@@ -2,7 +2,7 @@
 
 using namespace std;
 
-long long comb(const int n, const int r)
+long long num_array(const int n, const int r)
 {
     long long** comb_array = new long long* [n + 1];
 
@@ -38,7 +38,7 @@ long long comb(const int n, const int r)
 
 int main()
 {
-    cout << "Answer is : " << comb(40, 20) << endl;
+    cout << "Answer is : " << num_array(40, 20) << endl;
 
     return 0;
 }
