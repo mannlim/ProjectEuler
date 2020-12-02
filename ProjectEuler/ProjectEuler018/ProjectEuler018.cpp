@@ -69,7 +69,6 @@ int main()
     }
 
     cout << endl;
-
     cout << "Answer is : " << copy_array[0][0] << endl;
 
     return 0;
