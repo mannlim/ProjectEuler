@@ -30,12 +30,12 @@ int main()
             {
                 day_array[year][mon] = check_feb(1900 + year);
             }
-            cout << day_array[year][mon] << "\t";
+            //cout << day_array[year][mon] << "\t";
         }
-        cout << endl;
+        //cout << endl;
     }
 
-    cout << endl;
+    //cout << endl;
 
     int sum = 0;
     int count = 0;

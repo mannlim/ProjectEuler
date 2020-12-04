@@ -1,7 +1,7 @@
 ﻿  ProjectEuler019.cpp
   Generating code
-  3 of 12 functions (25.0%) were compiled, the rest were copied from previous compilation.
+  7 of 12 functions (58.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   ProjectEuler019.vcxproj -> C:\Users\lleon\OneDrive\Programming\ProjectEuler\ProjectEuler\Release\ProjectEuler019.exe
